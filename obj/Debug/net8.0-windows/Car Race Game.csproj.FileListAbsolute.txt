@@ -1,0 +1,34 @@
+S:\Desktop\programs\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.exe
+S:\Desktop\programs\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.deps.json
+S:\Desktop\programs\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.runtimeconfig.json
+S:\Desktop\programs\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.dll
+S:\Desktop\programs\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.pdb
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car_Race_Game.Form1.resources
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.csproj.GenerateResource.cache
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.GeneratedMSBuildEditorConfig.editorconfig
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.AssemblyInfoInputs.cache
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.AssemblyInfo.cs
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.csproj.CoreCompileInputs.cache
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.dll
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\refint\Car Race Game.dll
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.pdb
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.genruntimeconfig.cache
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\ref\Car Race Game.dll
+S:\Desktop\programs\C#\Car Race Game\obj\Debug\net8.0-windows\Car_Race_Game.Properties.Resources.resources
+S:\Desktop\Code\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.exe
+S:\Desktop\Code\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.deps.json
+S:\Desktop\Code\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.runtimeconfig.json
+S:\Desktop\Code\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.dll
+S:\Desktop\Code\C#\Car Race Game\bin\Debug\net8.0-windows\Car Race Game.pdb
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car_Race_Game.Form1.resources
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car_Race_Game.Properties.Resources.resources
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.csproj.GenerateResource.cache
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.GeneratedMSBuildEditorConfig.editorconfig
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.AssemblyInfoInputs.cache
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.AssemblyInfo.cs
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.csproj.CoreCompileInputs.cache
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.dll
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\refint\Car Race Game.dll
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.pdb
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\Car Race Game.genruntimeconfig.cache
+S:\Desktop\Code\C#\Car Race Game\obj\Debug\net8.0-windows\ref\Car Race Game.dll
